@@ -1,1 +1,1 @@
-# Java_HackerRank
+# Java_HackerRank Solutions
